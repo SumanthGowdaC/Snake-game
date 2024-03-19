@@ -9,13 +9,8 @@ This project implements the classic Snake Game using Pygame, a popular library f
 ## Installation
 
 1. Ensure you have Python installed on your system. If not, download and install Python from [python.org](https://www.python.org/).
-2. Clone this repository to your local machine:
 
-    ```bash
-    git clone <repository_url>
-    ```
-
-3. Install Pygame library:
+2. Install Pygame library:
 
     ```bash
     pip install pygame
